@@ -1,6 +1,6 @@
-# Contributing to HTML5 Boilerplate
+# Contributing to RomzaLabsWeb
 
-♥ [HTML5 Boilerplate](https://html5boilerplate.com/) and want to get involved?
+♥ [Romza Labs](http://romzalabs.com/) and want to get involved?
 Thanks! We're actively looking for folks interested in helping out and there 
 are plenty of ways you can help!
 
@@ -15,23 +15,16 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/h5bp/html5-boilerplate/issues) is
+The [issue tracker](https://github.com/RomzaLabs/RomzaLabsWeb/issues/) is
 the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
 
-* Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](https://stackoverflow.com/questions/tagged/html5boilerplate)).
+* Please **do not** use the issue tracker for personal support requests or
+  consulting questions.
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
-
-* Please **do not** open issues or pull requests regarding the code in
-  [`.htaccess`](https://github.com/h5bp/server-configs-apache),
-  [`jQuery`](https://github.com/jquery/jquery/),
-  [`Modernizr`](https://github.com/Modernizr/Modernizr) or
-  [`Normalize.css`](https://github.com/necolas/normalize.css) (open them in
-  their respective repositories).
 
 
 <a name="bugs"></a>
