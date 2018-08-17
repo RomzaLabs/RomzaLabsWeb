@@ -5,8 +5,8 @@
     padding-top:105px;
     height: 100%;
     width: 100%;
-    background-color: #ff4757;
-    background-image: linear-gradient(20deg, #ff6b81 0%, #ff4757 75%);
+    background-color: #ff7f50;
+    background-image: linear-gradient(20deg, #ff6348 0%, #ff7f50 75%);
     opacity: 0.95;
 }
 
@@ -30,13 +30,13 @@
     color: white;
 }
 
-.brand-icon {
-    color: white;
-}
+/*.brand-icon {*/
+    /*color: white;*/
+/*}*/
 
-.icon-hover-blue:hover .icon {
-    background-color: #1e90ff;
-}
+/*.icon-hover-blue:hover .icon {*/
+    /*background-color: #1e90ff;*/
+/*}*/
 
 .prestige-blue {
     background-color: #2f3542 !important;
