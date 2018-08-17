@@ -15,6 +15,26 @@
     color: white;
 }
 
+.golden-sand-bg {
+    background-color: #eccc68;
+    color: white;
+}
+
+.clear-chill-bg {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.coral-bg {
+    background-color: #ff7f50;
+    color: white;
+}
+
 .brand-icon {
     color: white;
 }
+
+.icon-hover-blue:hover .icon {
+    background-color: #1e90ff;
+}
+
