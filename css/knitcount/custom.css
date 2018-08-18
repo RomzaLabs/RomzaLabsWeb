@@ -30,14 +30,10 @@
     color: white;
 }
 
-/*.brand-icon {*/
-    /*color: white;*/
-/*}*/
-
-/*.icon-hover-blue:hover .icon {*/
-    /*background-color: #1e90ff;*/
-/*}*/
-
 .prestige-blue {
     background-color: #2f3542 !important;
+}
+
+#preloader .progress .indeterminate {
+    background: #1e90ff !important;
 }
