@@ -1,1 +1,17 @@
-/* Placeholder */
+.romza-banner-bg {
+    background-image: url("../../assets/img/romza/romza-banner-bg.jpg");
+}
+
+.tt-headline {
+    text-shadow: 2px 2px black;
+}
+
+.tt-headline.rotate-3 i.in {
+    -webkit-animation: tt-rotate-3-in 2s forwards;
+    -moz-animation: tt-rotate-3-in 2s forwards;
+    animation: tt-rotate-3-in 2s forwards;
+}
+
+.tt-sub-intro {
+    text-shadow: 2px 2px black;
+}
