@@ -1,3 +1,7 @@
+body {
+    color: #57606f;
+    background-color: #f1f2f6;
+}
 .romza-banner-bg {
     background-image: url("../../assets/img/romza/romza-banner-bg.jpg");
 }
@@ -14,4 +18,16 @@
 
 .tt-sub-intro {
     text-shadow: 2px 2px black;
+}
+
+.brand-filter li:hover, .brand-filter li.active {
+    background-color: #1e90ff;
+}
+
+.portfolio-wrapper .bg-overlay {
+    background-color: #1e90ff;
+}
+
+.prestige-blue {
+    background-color: #2f3542 !important;
 }
