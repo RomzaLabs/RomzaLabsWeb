@@ -1,6 +1,6 @@
 # RomzaLabsWeb
 
-Version: 1.0.0 - 20 Aug 2018
+Version: 1.0.1 - 22 Sep 2018
 
 ## Description
 
