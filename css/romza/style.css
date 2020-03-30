@@ -162,6 +162,33 @@ hr::before {
   font-weight: 300;
 }
 
+.gallery {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.gallery > .inner > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.thumbnail {
+  background-image: none;
+  background-size: 100% 100%;
+  background-position: left top;
+  background-repeat: no-repeat;
+  border-radius: 0;
+  display: block;
+  position: relative;
+}
+
+.thumbnail-img {
+  border-radius: 0;
+  display: block;
+  width: 100%;
+}
+
 /*#main > .inner {position: relative;z-index: 1;border-radius: inherit;padding: 6rem 4rem;max-width: 100%;width: 40rem;}*/
 /*#main > .inner > * {margin-top: 1.5rem;margin-bottom: 1.5rem;}*/
 /*#main > .inner > :first-child {margin-top: 0 !important;}*/
