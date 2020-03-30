@@ -81,7 +81,8 @@ body:after {
 #main {
   display: flex;
   position: relative;
-  width: 50%;
+  width: 90%;
+  max-width: 30em;
   z-index: 1;
   -moz-align-items: center;
   -webkit-align-items: center;
