@@ -1,6 +1,6 @@
 # RomzaLabsWeb
 
-Version: 1.0.2 - 22 Sep 2018
+Version: 2.0.0 - 29 March 2020
 
 ## Description
 
@@ -16,5 +16,5 @@ If you need help with this project, please read the [Support document](.github/S
 
 ## License
 
-[MIT License](LICENSE.md)
+[MIT License](./LICENSE)
 
