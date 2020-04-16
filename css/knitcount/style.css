@@ -4124,6 +4124,13 @@ body.is-preload #header .image img {
     font-size: 0.8em;
 }
 
+.no-border {
+    padding: 0;
+    box-shadow: none !important;
+    border: none;
+    margin: 0;
+}
+
 @media screen and (max-width: 980px) {
 
     #footer {
