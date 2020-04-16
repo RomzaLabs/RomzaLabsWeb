@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1003px" height="1003px" viewBox="0 0 1003 1003" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AppIcon</title>
+    <defs>
+        <circle id="path-1" cx="479.5" cy="479.5" r="479.5"></circle>
+        <filter x="-2.7%" y="-2.3%" width="105.1%" height="105.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="17.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-1" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Avenir-Black, Avenir" font-size="288" font-weight="700" line-spacing="220" letter-spacing="0.6" fill="#FFFFFF">
+            <tspan x="177.028" y="533">Knit</tspan>
+            <tspan x="49" y="753">Count</tspan>
+        </text>
+        <filter x="-0.8%" y="-3.6%" width="103.4%" height="108.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="12" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.2   0 0 0 0 0.2  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="AppIcon-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-with-no-opacity" transform="translate(-11.000000, -11.000000)">
+            <g id="AppIcon" transform="translate(34.000000, 31.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#FFFFFF" stroke-width="35" fill="#E56226" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Knit-Count" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                    <use xlink:href="#text-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
