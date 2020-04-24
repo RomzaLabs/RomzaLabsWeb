@@ -1,6 +1,6 @@
 # RomzaLabsWeb
 
-Version: 2.0.1 - 19 April 2020
+Version: 2.0.2 - 24 April 2020
 
 ## Description
 
